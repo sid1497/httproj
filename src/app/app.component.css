@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    
+    
+  }
+  
+  th {
+    height: 50px;
+  }
+  td {
+    height: 50px;
+    vertical-align: bottom;
+  }
+  thead
+  {
+      text-align: left;
+  }
+  #head
+{
+
+color: #3D5B99;
+position: absolute;
+top:-33%;
+font-size: 36px;
+left: 6%;
+
+    font-family:sans-serif;
+  
+}
